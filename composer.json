@@ -1,0 +1,17 @@
+{
+  "name": "max_cohen/composer-html",
+  "description": "Minify HTML input string",
+  "license": "GPLv3",
+  "autoload": {
+    "files": [
+      "src/minifyHTML.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Max Cohen",
+      "email": "showman_sexy@bk.ru"
+    }
+  ],
+  "require": {}
+}
