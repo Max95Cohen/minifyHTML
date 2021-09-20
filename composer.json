@@ -1,5 +1,5 @@
 {
-  "name": "max_cohen/composer-html",
+  "name": "max_cohen/minify-html",
   "description": "Minify HTML input string",
   "license": "GPL-3.0-only",
   "autoload": {
