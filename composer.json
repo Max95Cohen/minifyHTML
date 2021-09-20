@@ -1,7 +1,7 @@
 {
   "name": "max_cohen/composer-html",
   "description": "Minify HTML input string",
-  "license": "GPLv3",
+  "license": "GPL-3.0-only",
   "autoload": {
     "files": [
       "src/minifyHTML.php"
