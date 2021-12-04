@@ -13,5 +13,7 @@
       "email": "showman_sexy@bk.ru"
     }
   ],
-  "require": {}
+  "require": {
+    "ext-mbstring": "*"
+  }
 }
